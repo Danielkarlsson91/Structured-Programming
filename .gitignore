@@ -2,3 +2,6 @@
 *.exe
 *.zip
 *.pdf
+*.txt
+**/.vscode
+
